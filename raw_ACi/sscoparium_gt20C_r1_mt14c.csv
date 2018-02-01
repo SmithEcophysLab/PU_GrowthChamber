@@ -1,0 +1,23 @@
+Investigator name: Nick Smith
+Contact information: ngsmith@purdue.edu
+Site name in full: Purdue Growth Chamber
+Vegetation type: NA
+Soil type: Field Mixture
+Major species: NA
+Sample leaf light environment: Chamber light (~1000 PAR)
+Water stress assessment: No water stress
+Instrument used: Licor-6400
+Extra info: 7day acclimation at 20c
+SiteID,Latitude(Degrees),Longitude(Degrees),Elevation,SampleYear,SampleDayOfYear,GrowSeasonStart,GrowSeasonEnd,StandAge,CanopyHeight,LeafAreaIndex,SpeciesSampled,AveTimeResolution,SampleHeight,LeafAge,SpecificLeafArea,LfNitrogenContent,LfCarbonContent,LfPhosphContent
+NoUnit,NorthPositive,EastPositive,m,NoUnit,DayOfYear,DayOfYear,DayOfYear,Year,m,m2/m2,NoBlankSpace,Minutes,m,days,cm2/g,%,%,%
+NA,NA,NA,NA,2014,94,NA,NA,NA,NA,NA,Schizachyriumscoparium,NA,NA,NA,174.2798495,0.91,NA,NA
+Gamma*,Kc,Ko,Alpha,Rd,gi
+Pa,Pa,Pa,NoUnit,umol/m2/s,umol/m2/s/Pa
+-9999,-9999,-9999,-9999,0.483711218,-9999
+Obs,HHMMSS,FTime,Photo,!AdjPhoto,!StomCond,!Ci,!Trmmol,!VpdL,Area,StmRat,BLCond,Tair,!Tleaf,TBlk,CO2R,CO2S,H2OR,H2OS,RH_R,RH_S,Flow,!PARi,PARo,Press,CsMch,HsMch,StableF,Status,PhiPS2,OxygenPress
+NoUnit,HHMMSS,Second,umol/m2/s,umol/m2/s,mol/m2/s,umol/mol,mmol/m2/s,kPa,cm2,NA,mol/m2/s,oC,oC,oC,umol/mol,umol/mol,mmol/mol,mmol/mol,%,%,umol/s,umol/m2/s,umol/m2/s,Kpa,umol/mol,mmol/mol,NA,NA,NA,KPA
+11,5:33:59,2993.5,2.29,2.29,0.0171,177,0.116,0.659,6,0.5,2.25,12.93,14.15,12.68,399.9,395.23,9.566,9.795,62.72,64.2,300,1200,273,98.11,17.3,-0.25,1,111114,-9999,-9999
+17,5:49:24,3918.5,1.16,1.16,0.00912,191,0.0436,0.465,6,0.5,2.25,12.85,14.11,12.11,400.04,397.68,11.645,11.731,76.71,77.3,300,1200,275,98.11,17.1,-0.298,1,111114,-9999,-9999
+18,5:50:21,3976,1.63,1.63,-0.00808,714,-0.039,0.465,6,0.5,2.25,12.04,14.06,11.03,400.04,396.81,11.746,11.669,81.6,81.08,300.1,1200,276,98.12,16.5,-0.271,1,111114,-9999,-9999
+19,5:52:20,4094.5,1.67,1.67,-0.0146,774,-0.0682,0.448,6,0.5,2.25,12.15,13.98,11.11,600.09,596.83,11.898,11.764,82.03,81.14,300,1200,275,98.12,17.5,-0.35,1,111114,-9999,-9999
+20,5:54:40,4234.5,1.91,1.91,-0.00967,1.10E+03,-0.043,0.428,6,0.5,2.25,11.98,14.07,11.21,800.17,796.42,12.148,12.063,84.76,84.19,300,1200,276,98.13,19.3,-0.41,1,111114,-9999,-9999

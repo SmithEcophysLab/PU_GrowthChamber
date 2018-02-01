@@ -1,0 +1,29 @@
+Investigator name: Nick Smith
+Contact information: ngsmith@purdue.edu
+Site name in full: Purdue Growth Chamber
+Vegetation type: NA
+Soil type: Field Mixture
+Major species: NA
+Sample leaf light environment: Chamber light (~1000 PAR)
+Water stress assessment: No water stress
+Instrument used: Licor-6400
+Extra info: 7day acclimation at 25c
+SiteID,Latitude(Degrees),Longitude(Degrees),Elevation,SampleYear,SampleDayOfYear,GrowSeasonStart,GrowSeasonEnd,StandAge,CanopyHeight,LeafAreaIndex,SpeciesSampled,AveTimeResolution,SampleHeight,LeafAge,SpecificLeafArea,LfNitrogenContent,LfCarbonContent,LfPhosphContent
+NoUnit,NorthPositive,EastPositive,m,NoUnit,DayOfYear,DayOfYear,DayOfYear,Year,m,m2/m2,NoBlankSpace,Minutes,m,days,cm2/g,%,%,%
+NA,NA,NA,NA,2013,209,NA,NA,NA,NA,NA,Oryzasativa,NA,NA,NA,209.4474191,3.65,NA,NA
+Gamma*,Kc,Ko,Alpha,Rd,gi
+Pa,Pa,Pa,NoUnit,umol/m2/s,umol/m2/s/Pa
+-9999,-9999,-9999,-9999,3.842147751,-9999
+Obs,HHMMSS,FTime,Photo,!AdjPhoto,!StomCond,!Ci,!Trmmol,!VpdL,Area,StmRat,BLCond,Tair,!Tleaf,TBlk,CO2R,CO2S,H2OR,H2OS,RH_R,RH_S,Flow,!PARi,PARo,Press,CsMch,HsMch,StableF,Status,PhiPS2,OxygenPress
+NoUnit,HHMMSS,Second,umol/m2/s,umol/m2/s,mol/m2/s,umol/mol,mmol/m2/s,kPa,cm2,NA,mol/m2/s,oC,oC,oC,umol/mol,umol/mol,mmol/mol,mmol/mol,%,%,umol/s,umol/m2/s,umol/m2/s,Kpa,umol/mol,mmol/mol,NA,NA,NA,KPA
+45,13:27:25,15152.5,0.503,0.503,0.0265,330,1.67,6.03,6,0.5,2.25,42.92,40.65,44.64,399.58,397.24,13.227,16.513,15.19,18.97,300,1200,510,99.37,21.7,-0.631,0.7,111114,-9999,-9999
+46,13:30:55,15362.5,0.226,0.226,0.0289,257,1.88,6.22,6,0.5,2.25,42.34,41.21,43.33,300,298.43,13.274,16.967,15.72,20.09,299.7,1199,516,99.36,19.9,-0.573,0.3,111114,-9999,-9999
+47,13:34:25,15572.5,-0.501,-0.501,0.0308,205,1.97,6.14,6,0.5,2.25,41.25,41.06,41.92,199.71,199.92,13.32,17.197,16.7,21.56,300,1199,511,99.37,19.2,-0.466,0.7,111114,-9999,-9999
+48,13:37:55,15782.5,-1.05,-1.05,0.0336,139,2.14,6.11,6,0.5,2.25,40.34,41.1,40.5,99.53,101.19,13.372,17.58,17.6,23.14,300,1200,501,99.36,17,-0.389,0.3,111114,-9999,-9999
+49,13:41:25,15992.5,-1.24,-1.24,0.0359,101,2.27,6.08,6,0.5,2.25,39.53,41.08,39.4,50.98,53.21,13.403,17.87,18.42,24.56,299.9,1200,503,99.37,15.7,-0.335,0.3,111114,-9999,-9999
+50,13:44:55,16202.5,0.176,0.176,0.0292,350,1.89,6.18,6,0.5,2.25,38.62,41.12,38.04,401.09,399.23,13.262,16.97,19.15,24.5,299.9,1200,499,99.36,22.8,-0.527,0.3,111114,-9999,-9999
+51,13:48:25,16412.5,-0.0517,-0.0517,0.0258,363,1.66,6.16,6,0.5,2.25,37.61,40.96,36.7,400.32,399.1,13.276,16.537,20.23,25.2,300.1,1200,491,99.36,22.7,-0.486,0.7,111114,-9999,-9999
+52,13:51:55,16622.5,0.107,0.107,0.0248,532,1.6,6.18,6,0.5,2.25,38.1,40.96,37.45,599.91,597.78,13.212,16.362,19.61,24.28,299.9,1201,487,99.36,26.2,-0.594,0.3,111114,-9999,-9999
+53,13:55:25,16831.5,0.81,0.81,0.0242,666,1.56,6.19,6,0.5,2.25,38.13,40.96,37.46,800.45,796.33,13.168,16.246,19.51,24.07,299.9,1201,484,99.36,29,-0.677,0.3,111114,-9999,-9999
+54,13:58:54,17041.5,1.22,1.22,0.0235,817,1.52,6.2,6,0.5,2.25,38.13,40.96,37.49,1000.65,995.18,13.137,16.133,19.47,23.91,300.1,1201,482,99.36,31.3,-0.738,0.7,111114,-9999,-9999
+55,14:02:24,17251.5,0.794,0.794,0.0231,1.02E+03,1.5,6.21,6,0.5,2.25,38.15,40.97,37.45,1199.84,1194.67,13.115,16.067,19.42,23.79,299.9,1201,478,99.36,34,-0.817,0.7,111114,-9999,-9999
